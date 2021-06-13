@@ -24,3 +24,11 @@ Adding new Favicon
     2. Downloaded file copied it in public folder and updated 
         file name to favicon.ico and have delete old file.
 
+Installing New Packages
+    1. npm install styled-components
+    2. npm install react-router-dom react-icons
+
+    Extra step take:
+        => npm audit fix to fix vulnebelities due to styled-components
+        => npm audit fix to fix vulnebelities due to react-router-dom react-icons
+    
