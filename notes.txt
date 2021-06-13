@@ -1,0 +1,20 @@
+1st => I have created react app using following command.	
+	
+	1. npx create-react-app resume-frontend
+	
+	2. cd into resume-frontend 
+
+	3. npm start
+
+First GIT COMMITS:
+    1st. Created new repo and called it Ashur-Resume-2021
+    2nd Run following command in vs code - exact sequence
+        1. git init  
+        2. git add .
+        3. git status  (results were un-committed red statuts)
+        4. git commit -m "creacted react app resume frontend"
+        5. 3. git status  (results were committed green statuts)
+        6. git branch -M main
+        7. git remote add origin https://github.com/ashur-k/Ashur-Resume-2021.git
+        8. git push -u origin main
+
