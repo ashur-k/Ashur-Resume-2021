@@ -11,16 +11,16 @@ function Header() {
                     </NavLink>
                     <Bars />
                     <NavMenu>
-                        <NavLink to="/about" activeStyle>
+                        <NavLink to="/skills" activeStyle>
                             Skill Level
                         </NavLink>
-                        <NavLink to="/about" activeStyle>
+                        <NavLink to="/projects" activeStyle>
                             Projects
                         </NavLink>
-                        <NavLink to="/about" activeStyle>
+                        <NavLink to="/work-expereince" activeStyle>
                             Work Experience
                         </NavLink>
-                        <NavLink to="/about" activeStyle>
+                        <NavLink to="/education" activeStyle>
                             Education
                         </NavLink>
                     </NavMenu>
