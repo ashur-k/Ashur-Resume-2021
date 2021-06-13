@@ -18,3 +18,9 @@ First GIT COMMITS:
         7. git remote add origin https://github.com/ashur-k/Ashur-Resume-2021.git
         8. git push -u origin main
 
+Adding new Favicon
+    1. I have use following site to get favicon icon
+        => https://icons8.com/icons/set/favicon
+    2. Downloaded file copied it in public folder and updated 
+        file name to favicon.ico and have delete old file.
+
